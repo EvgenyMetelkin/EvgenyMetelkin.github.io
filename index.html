@@ -1,8 +1,7 @@
 <?php
 require_once 'app/include/database.php';
 
-include 'app/header.php';
-//<img src="<?=$post['image']?//>" alt="">       
+include 'app/header.php';   
 ?>
 
 <title>Блогг</title>
