@@ -14,10 +14,7 @@ if (!isset($_COOKIE['id'])) {
     }
 }
 
-// <button type="submit" name="log" class="btn btn-primary ">
-//                            <i class="fa fa-arrow-right"></i> ВОЙТИ
-//                        </button>  
-//<input type="submit" name="log" class="btn btn-primary " value="ВОЙТИ"></input>  
+
 ?>
 
 <!DOCTYPE html>
